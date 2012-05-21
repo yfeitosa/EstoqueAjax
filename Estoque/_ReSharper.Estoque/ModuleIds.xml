@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="700DD580-15F1-4DEC-BE41-14DB762DF026" ModuleId="Estoque.NHibernate" />
+  <Module PersistentId="7D92163F-B769-4AC5-B3D6-F268DBBDBCC4" ModuleId="Estoque.Dominio" />
+  <Module PersistentId="1AD54D5B-2FAE-4B51-A2B9-F9B023D2CEE6" ModuleId="Estoque.WebApplication" />
+</Modules>

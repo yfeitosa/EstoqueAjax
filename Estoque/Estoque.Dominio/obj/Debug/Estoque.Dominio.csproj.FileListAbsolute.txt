@@ -1,0 +1,10 @@
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.Dominio\bin\Debug\Castle.Core.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.Dominio\bin\Debug\Castle.Windsor.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.Dominio\bin\Debug\Castle.Core.xml
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.Dominio\bin\Debug\Castle.Windsor.pdb
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.Dominio\bin\Debug\Castle.Windsor.xml
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.Dominio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.Dominio\bin\Debug\Estoque.Dominio.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.Dominio\bin\Debug\Estoque.Dominio.pdb
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.Dominio\obj\Debug\Estoque.Dominio.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.Dominio\obj\Debug\Estoque.Dominio.pdb

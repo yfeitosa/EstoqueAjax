@@ -1,0 +1,16 @@
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\Castle.Core.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\FluentNHibernate.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\NHibernate.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\Castle.Core.xml
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\FluentNHibernate.pdb
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\Iesi.Collections.pdb
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\Estoque.NHibernate.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\Estoque.NHibernate.pdb
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\Estoque.Dominio.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\bin\Debug\Estoque.Dominio.pdb
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\obj\Debug\Estoque.NHibernate.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque.NHibernate\obj\Debug\Estoque.NHibernate.pdb

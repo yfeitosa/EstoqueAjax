@@ -1,0 +1,5 @@
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque\bin\Estoque.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque\bin\Estoque.pdb
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque\obj\Debug\Estoque.dll
+C:\Users\yfeitosa\_git\EstoqueAjax\Estoque\Estoque\obj\Debug\Estoque.pdb
